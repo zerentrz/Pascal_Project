@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1429738194"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -l -vewnhibq &quot;-FiC:\Users\zeren\Desktop\dersler\1. sınıf 1.dönem\programlama temelleri\19.12.22 bilgisayar gitti\19.12.22\TYPE KULLANARAK VİZE FİNAL\lib\x86_64-win64&quot; &quot;-FuC:\Users\zeren\Desktop\dersler\1. sınıf 1.dönem\programlama temelleri\19.12.22 bilgisayar gitti\19.12.22\TYPE KULLANARAK VİZE FİNAL\&quot; &quot;-FUC:\Users\zeren\Desktop\dersler\1. sınıf 1.dönem\programlama temelleri\19.12.22 bilgisayar gitti\19.12.22\TYPE KULLANARAK VİZE FİNAL\lib\x86_64-win64\&quot; &quot;-FEC:\Users\zeren\Desktop\dersler\1. sınıf 1.dönem\programlama temelleri\19.12.22 bilgisayar gitti\19.12.22\TYPE KULLANARAK VİZE FİNAL\&quot; &quot;-oC:\Users\zeren\Desktop\dersler\1. sınıf 1.dönem\programlama temelleri\19.12.22 bilgisayar gitti\19.12.22\TYPE KULLANARAK VİZE FİNAL\project1.exe&quot; project1.lpr"/>
+</CONFIG>

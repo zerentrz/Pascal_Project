@@ -1,0 +1,14 @@
+USES crt;
+var
+sayi,sonuc,i:integer;
+begin
+clrscr;
+write('Bir sayi giriniz   :'); readln(sayi);
+if (sayi<0) then sayi:=sayi*-1;
+
+for i:=1 to 10 do
+writeln(sayi,'x',i,'=',sayi*i);
+
+readln;
+end.
+
